@@ -10,6 +10,10 @@
      
      
 ## 界面截图
+
+
+### 组件界面
+![组件界面](RepositoryResources/ModulesPageImage.jpg)
     
 ### 启动界面
 ![启动界面](RepositoryResources/startupImage.png)
