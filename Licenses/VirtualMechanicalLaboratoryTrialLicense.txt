@@ -1,3 +1,5 @@
+中文版：
+
 虚拟机械试验室 评估试用版 许可协议
 
 版权所有 © 2022 - 2022 刘汉涛 心倾   微信公众号：心倾（ID：Xin-Qing7）   https://gitee.com/LHTXQ/   https://github.com/LHTXQ/ 
@@ -10,9 +12,42 @@
 	4、若没有特别约定的，在使用本软件、持有本软件副本期间，本软件权利所有者（作者或版权持有人）有权在不特别通知的情况下随时修改、更新授权协议，若你继续使用本软件、持有本软件副本，则表示你同意更新后的协议。修改、更新后的协议将通过包括但不限于网站、主页、微信公众号等方式公布，请随时关注。在新的协议公布之时起，你拥有二十四小时的豁免期，在此期间，你可继续使用本软件、持有本软件副本，并在豁免期结束前决定同意新协议或停止使用本软件并删除本软件副本。
 	5、同意本软件包含的归属于其他作者或版权持有人的组件的授权协议，若在你所在地法律框架下其他协议与此协议有冲突，则你应不使用本软件并删除本软件副本。
 	6、同意本软件在不通知的情况下，从本地或网络更新、更改其组件以改变其运行行为。
-	7、评估试用本软件的期限为一年，在期满后，你应停止使用本软件并删除本软件副本。若无特别说明，本软件每发布新版本，则重新计算新版本的评估试用期限，旧版本的软件被完全禁止使用，你应停止使用旧版本的软件并删除其副本。若无特别约定，评估试用的起始时间为每个版本的软件发布之时，而非你初次获取本软件副本或使用本软件之时。
+	7、评估试用本软件的期限为一年或两百次使用（以首先达到限制时间或次数的条件为准），在达到限制条件后，你应停止使用本软件并删除本软件副本。若无特别说明，本软件每发布新版本，则重新计算新版本的评估试用期限或次数，旧版本的软件被完全禁止使用，你应停止使用旧版本的软件并删除其副本。若无特别约定，评估试用的起始时间为每个版本的软件发布之时，而非你初次获取本软件副本或使用本软件之时。
 	8、同意本软件在运行或更改其组件的过程中，在无任何通知的情况下，使用系统资源（包括但不限于计算资源、网络资源）、在系统中写入、修改或删除文件（包括但不限于包含于本软件副本中的文件），由此产生的费用、代价及其他后果由使用者承担。
 	9、进行任何上述允许的行为之外的行为均需取得本软件作者或版权持有人的书面许可。
 	10、若有任何纠纷，则仲裁地为中国大陆软件权利所有者（作者或版权持有人）所在地法院。若本协议包含与中国政府颁布的适用于中国大陆的现行法律相悖的条款（后称“冲突条款”），则冲突条款按符合前述法律规定的方式以最接近原表述意义的方式继续生效或视为作废，其他条款仍按原表述的意义有效。
 
 本软件是“按原样”提供的，没有任何形式明示或隐含的保证，包括但不限于适销性保证、适用于特定目的和非侵权。在任何情况下（无论是在合同诉讼、侵权诉讼或其他诉讼中，在本软件之外或与本软件的使用或其他有关软件相关的），作者或版权持有人不对任何索赔、损害或其他诉求负有责任。若不可避免地需对本软件造成的任何损害赔偿，则赔偿方式只可为钱，且最小赔偿金额为判决时日常生活中人民币最小计量单位（如二〇二二年时为一分，即零点零壹元），具体赔偿金额及支付方式由本软件作者或版权持有人决定，若申请赔偿者在二十四小时内无法以本软件作者或版权持有人选择的方式接受赔偿，则表示放弃接受赔偿、撤销该赔偿申请并保证未来不再以同样的事件提出赔偿申请。
+
+************************************
+
+English version (Machine translation from Chinese version, for reference only, in case of any dispute, Chinese version shall prevail) :
+
+Virtual Machine Laboratory Evaluation trial license Agreement
+
+Copyright © 2022-2022 Liu Hantao   XinQing  WeChat Official Acount: 心倾 (ID: Xin-Qing7)   https://gitee.com/LHTXQ/   https://github.com/LHTXQ/
+
+License is hereby granted free of charge to any individual who has obtained a copy to use the Software, run the dependencies, resource files and related documentation files (including but not limited to the four hereinafter collectively referred to as "(the Software"), solely for the purpose of evaluating the trial (not directly or indirectly for profit, and/or for the provision of labor, paid or unpaid, and/or learning),
+Actions including, but not limited to, modifying, merging, distributing, decompiling, compiling, reverse engineering, sublicense and/or selling copies of this Software are prohibited, and actions including use, copying and redistribution are permitted if:
+
+1. The above copyright Notice and this License Notice shall be included in all copies of the Software and its components.
+2. Agree that the Software author or copyright holder may modify or terminate the License Agreement at any time and under any circumstances, and promise to immediately delete any copy of the Software when the License Agreement prohibits the use of the Software.
+3. Agrees that the Software collects, processes, uploads and uses the hardware and software information of its operating system (which may include some personal information) for the purposes including but not limited to: optimizing program compatibility, analyzing performance and ensuring that the software runs under the premise of obtaining authorization.
+In some cases, you may be asked to provide additional information. By providing additional information, you authorize the software rights holder (author or copyright holder) to obtain and use such information.
+4. If there is no special agreement, the owner of the right of the Software (author or copyright holder) has the right to modify and update the license Agreement at any time without special notice during the period of using the software and holding the copy of the software. If you continue to use the software and hold the copy of the software, you agree to the updated Agreement.
+The revised and updated Agreement will be published through the website, home page, wechat official account and other means, please pay attention at any time.
+Upon publication of the new Agreement, you have a 24-hour waiver period during which you may continue to use the Software, hold a copy of the Software, and decide to agree to the new Agreement or stop using the Software and delete a copy of the Software before the end of the Waiver period.
+5. You agree that the Software contains the license agreement of components belonging to other authors or copyright holders. If other agreements under your local legal framework conflict with this agreement, you shall not use the Software and delete the copy of the Software.
+6. The Software agrees to update and change its components from local or network to change its operation behavior without notice.
+7. The evaluation trial period of this software is one year or 200 times (subject to the condition that you reach the limit time or number first). After reaching the limit conditions, you should stop using this software and delete the copy of this software.
+Unless otherwise specified, each time a new version of the software is released, the evaluation trial period or number of the new version will be recalculated. The use of the old version of the software is completely prohibited, and you should stop using the old version of the software and delete its copy.
+Unless otherwise agreed, the start time of the evaluation trial is the release of each version of the software and not the first time you obtain a copy of the Software or use the Software.
+8. Agree that the User shall, without any notice, use system resources (including but not limited to computing resources and network resources) and write, modify or delete files (including but not limited to files contained in copies of the Software) in the process of running or changing its components, and the costs, costs and other consequences arising therefrom shall be borne by the user.
+9. Any behavior other than the above permitted behavior shall be subject to the written permission of the software author or copyright holder.
+10. In case of any dispute, the place for arbitration shall be the court in Mainland China where the software rights holder (author or copyright holder) is located.
+If this Agreement contains provisions that are contrary to the laws in force and applicable in Mainland China as promulgated by the Government of the People's Republic of China (hereinafter referred to as the "Conflict Provisions"), the conflict provisions shall remain in force or be deemed void in a manner consistent with the foregoing laws that is closest to their original meaning, and the remaining provisions shall remain in force and effect as originally expressed.
+
+The Software is provided "as is" without warranties of any kind, express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose and non-infringement.
+In no event shall the author or copyright holder be liable for any claims, damages or other claims, whether in a contractual action, infringement action or other action, in addition to or in connection with the use of or in connection with the Software.
+If any damages caused by the Software are inevitably required, the compensation shall only be in the form of money, and the minimum amount of compensation shall be the smallest unit of measurement in RMB in daily life at the time of judgment (for example, one cent in 2002, that is, one thousand and one yuan). The specific amount of compensation and the method of payment shall be determined by the Software author or copyright holder.
+If the applicant cannot accept the compensation in the way chosen by the software author or copyright holder within 24 hours, he/she shall give up the acceptance of the compensation, withdraw the application for compensation and guarantee that he/she will not apply for compensation in the future for the same event.
