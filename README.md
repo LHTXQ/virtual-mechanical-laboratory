@@ -6,30 +6,34 @@
 **虚拟机械试验室**旨在作为机械设计工程师的得力工具，帮助工程师快速进行初步零件参数计算、建立机械系统概念模型、搭建详细模型并对系统强度和性能进行仿真。
 由于本人技术和精力有限，本软件将长期处于仅能帮助加速进行前期概念模型设计的状态。
     
-**下载使用前请先查看[【许可协议】](https://gitee.com/LHTXQ/virtual-mechanical-laboratory/raw/master/Licenses/VirtualMechanicalLaboratoryTrialLicense.txt)**。
+**下载使用前请先查看[【许可协议】](Licenses/)**。
      
      
 ## 界面截图
 
+### 主程序界面
 
-### 启动界面
-![启动界面](RepositoryResources/startupImage.png)
+#### 启动界面
+![启动界面](RepositoryResources/StartupImage.png)
 
-### 组件界面
+#### 组件界面
 ![组件界面](RepositoryResources/ModulesPageImage.jpg)
 
-### 单位换算界面
-![输入图片说明](RepositoryResources/UnitConversionImage.png)
-
-### 文件浏览器界面
-![输入图片说明](RepositoryResources/FileBrowserImage.png)
-
-### 三维模型浏览器界面
-![输入图片说明](RepositoryResources/ModelBrowserImage.png)
- 
 ### 关于界面
-![关于界面](RepositoryResources/aboutImage.png)
-    
+![关于界面](RepositoryResources/AboutImage.png)
+
+### 工具箱界面
+
+#### 单位换算界面
+![单位换算界面](RepositoryResources/UnitConversionImage.png)
+
+#### 文件浏览器界面
+![文件浏览器界面](RepositoryResources/FileBrowserImage.png)
+
+#### 三维模型浏览器界面
+![三维模型浏览器界面](RepositoryResources/ModelBrowserImage.png)
+ 
+
 
 ## 安装教程
 
@@ -47,4 +51,4 @@
 
 ## 技巧
 
-1.  使用
+1.  xxxx
