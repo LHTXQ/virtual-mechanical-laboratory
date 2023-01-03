@@ -23,7 +23,7 @@
 
 #### 弹出错误窗口时显示的信息，或者你点击发送错误数据按钮后，相关信息会自动保存到剪贴板，将其粘贴在此即可。
 
-![输入图片说明](../RepositoryResources/bugReportImage.png)
+![输入图片说明](../RepositoryResources/BugReportImage.png)
 
 
 
