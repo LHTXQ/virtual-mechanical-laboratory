@@ -3,3 +3,4 @@
 版权所有© 2022 - 2022 刘汉涛 心倾   微信公众号：心倾（ID：Xin-Qing7）   https://gitee.com/LHTXQ/   https://github.com/LHTXQ/ 
 
 无授权。
+请查看【评估试用协议】(VirtualMechanicalLaboratoryTrialLicense.txt)。
