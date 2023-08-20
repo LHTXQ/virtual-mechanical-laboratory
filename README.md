@@ -2,7 +2,7 @@
 
 ```
 注：
-    1、建议浏览电脑版网页以查看完整内容，目前仅电脑版可查看路线图和使用目录功能；
+    1、建议浏览电脑版网页，目前仅电脑版可使用目录功能；
     2、本页面含有动图，图片总大小约为 15 MB，请耐心等待加载。
 ```
 
@@ -72,6 +72,7 @@
 ![文件浏览器界面](Resources/Images/ReadMe/FileBrowserImage.gif)
 #### 三维模型浏览器界面
 ![三维模型浏览器界面](Resources/Images/ReadMe/ModelBrowserImage.gif)
+![三维模型浏览器](Resources/Images/ReadMe/3DModelFromCode.png)
 ### 设置界面
 #### 性能设置界面
 ![性能设置界面](Resources/Images/ReadMe/PerformanceSettingImage.png)
