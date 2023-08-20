@@ -7,12 +7,14 @@
 ```
 
   - [介绍](#介绍)
-  - [下载地址](#下载地址)
-  - [安装教程](#安装教程)
-  - [使用说明](#使用说明)
-  - [路线图及进度](#路线图及进度)
+  - [下载与安装](#下载与安装)
+      - [下载地址](#下载地址)
+      - [安装](#安装)
+          - [安装要求](#安装要求)
+  - [使用文档](#使用文档)
+  - [软件结构及功能](#软件结构及功能)
   - [界面截图](#界面截图)
-    - [主程序界面](#主程序界面)
+    - [主界面](#主界面)
       - [启动界面](#启动界面)
       - [组件界面](#组件界面)
       - [关于界面](#关于界面)
@@ -34,124 +36,46 @@
     
 **下载使用前请先查看并同意[【许可协议】](Licenses/)**。
 
-## 下载地址
-
+## 下载与安装
+### 下载地址
 >尚未发布。
+### 安装
+>待做。
+#### 安装要求
+* Windows
+1. 系统版本为Windows 10 1792及以上；
+2. 硬盘≥ 10 GB，内存≥ 4 GB，显存≥ 512 MB；
+3. 至少一个显示器，分辨率≥ 1200 × 900 像素。
 
-## 安装教程
-
+## 使用文档
 >待做。
 
-## 使用说明
-
->待做。
-
-## 路线图及进度
-
->图中带 * 的为未完成项。
-
-```mermaid
-graph LR
-    VML((*虚拟机械试验室))
-    VML --> Basic(*底层)
-        Basic --> GUI(*用户界面)
-        Basic --> ApplicationArchitecture(*程序架构)
-        Basic --> CalculateFunctions(*计算函数)
-            CalculateFunctions --> SimilarityCalculateFunction(*相似度计算函数)
-            CalculateFunctions --> ITToleranceClc(*IT公差计算)
-            CalculateFunctions --> FitToleranceClc(*配合公差计算)
-            CalculateFunctions --> SingleGearClcFunc(*单齿轮计算函数)
-                GearMaterialDataBase --> SingleGearClcFunc
-                GearCutterDataBase --> SingleGearClcFunc
-                ITToleranceClc --> SingleGearClcFunc
-            CalculateFunctions --> GearPairClcFunc(*齿轮副计算函数)
-                GearMaterialDataBase --> GearPairClcFunc
-                PreferredNumberDataBase --> GearPairClcFunc
-                SingleGearClcFunc --> GearPairClcFunc
-            CalculateFunctions --> PlanetaryGearClcFunc(*行星齿轮副计算函数)
-                GearPairClcFunc --> PlanetaryGearClcFunc
-            CalculateFunctions --> SplineClcFunc(*花键计算函数)
-                ShaftMaterialDataBase --> SplineClcFunc
-                ITToleranceClc --> SplineClcFunc
-                FitToleranceClc --> SplineClcFunc
-        Basic --> DataBase(*数据库)
-            DataBase --> MaterialDataBase(*材料数据库)
-                MaterialDataBase --> ShaftMaterialDataBase(*轴材料数据库)
-                MaterialDataBase --> GearMaterialDataBase(*齿轮材料数据库)
-                MaterialDataBase --> OilMaterialDataBase(*润滑油材料数据库)
-            DataBase --> StandardParameterDataBase(*标准参数数据库)
-                StandardParameterDataBase --> GearCutterDataBase(*齿轮刀具数据库)
-                StandardParameterDataBase --> PreferredNumberDataBase(*优先数数据库)
-    VML --> ToolKit(*工具箱)
-        ToolKit --> Reference(*查询)
-            Reference --> ConstantsReference(常数查询)
-            Reference --> ITToleranceReference(*IT公差查询)
-                ITToleranceClc --> ITToleranceReference
-            Reference --> FitToleranceReference(*配合公差查询)
-                FitToleranceClc --> FitToleranceReference
-        ToolKit --> Conversion(*换算)
-            Conversion --> UnitsConversion(单位换算)
-            Conversion --> HardnessConversion(*硬度换算)
-        ToolKit --> Browser(*浏览器)
-            Browser --> FileBrowser(文件浏览器)
-            Browser --> 3DModelBrowser(*三维模型浏览器)
-        ToolKit --> Others(*其他)
-            Others --> LoadSpectrumProcess(*载荷谱处理)
-            Others --> SimilarityCalculate(*相似度计算)
-                SimilarityCalculateFunction --> SimilarityCalculate
-    VML --> Modules(*组件)
-        Modules --> SingleGearModule(*单圆柱渐开线齿轮)
-            SingleGearClcFunc --> SingleGearModule
-        Modules --> GearPairModule(*圆柱渐开线齿轮副)
-            GearPairClcFunc --> GearPairModule
-        Modules --> PlanetaryGearModule(*圆柱渐开线行星齿轮副)
-            PlanetaryGearClcFunc --> PlanetaryGearModule
-        Modules --> SplineModule(*花键)
-            SplineClcFunc --> SplineModule
-        Modules --> InterferenceFitModule(*过盈配合)
-        Modules --> ShaftModule(*轴)
-        Modules --> BearingModule(*轴承)
-        Modules --> Bolts(*螺栓)
-    VML --> System(*系统)
-    VML --> Acoustic(*声学)
-```
+## 软件结构及功能
+![软件结构及功能](Resources/Images/ReadMe/StructureAndFunctions.png)
 
 ## 界面截图
-
-### 主程序界面
-
+### 主界面
 #### 启动界面
-![启动界面](RepositoryResources/StartupImage.png)
-
+![启动界面](Resources/Images/ReadMe/StartupImage.png)
 #### 组件界面
-![组件界面](RepositoryResources/ModulesPageImage.jpg)
-
+![组件界面](Resources/Images/ReadMe/ModulesPageImage.jpg)
 #### 关于界面
-![关于界面](RepositoryResources/AboutImage.png)
-
+![关于界面](Resources/Images/ReadMe/AboutImage.png)
 ### 工具箱界面
-
 #### 载荷谱处理界面
-![载荷谱处理界面](RepositoryResources/LoadSpectrumProcessImage.gif)
-
+![载荷谱处理界面](Resources/Images/ReadMe/LoadSpectrumProcessImage.png)
 #### 常数查询界面
-![常数查询界面](RepositoryResources/ConstantsReferenceImage.gif)
-
+![常数查询界面](Resources/Images/ReadMe/ConstantsReferenceImage.gif)
 #### 单位换算界面
-![单位换算界面](RepositoryResources/UnitConversionImage.gif)
-
+![单位换算界面](Resources/Images/ReadMe/UnitConversionImage.gif)
 #### 文件浏览器界面
-![文件浏览器界面](RepositoryResources/FileBrowserImage.gif)
-
+![文件浏览器界面](Resources/Images/ReadMe/FileBrowserImage.gif)
 #### 三维模型浏览器界面
-![三维模型浏览器界面](RepositoryResources/ModelBrowserImage.gif)
- 
+![三维模型浏览器界面](Resources/Images/ReadMe/ModelBrowserImage.gif)
 ### 设置界面
-
 #### 性能设置界面
-![性能设置界面](RepositoryResources/PerformanceSettingImage.png)
+![性能设置界面](Resources/Images/ReadMe/PerformanceSettingImage.png)
 
 ## 致谢
-
 1. 感谢[@1357310795](https://github.com/1357310795)同学对提出无数低级问题的我的耐心指教。
-2. 感谢全世界开源软件贡献者们的无私奉献。
+2. 感谢全世界开源软件贡献者们的供献。
